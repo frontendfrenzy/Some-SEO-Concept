@@ -1,0 +1,117 @@
+HOW SEO WORKS? [Search engine optimization]
+ Search engine such as google have theeir own algorithms or rules to decide the order of pages to show for a search query. 
+ These algorithms determine the ranking of the SERPs based on various ranking facter
+* CONTENT
+  The quality should be unique relavent for search query
+* LINKS
+  The links from other sites are called backlinks these links help in determining the ranking of a site in SERPs
+* PAGE STRUCTURE
+  The web pages include important keyword in the title,ULR,and other meta tags and also amke sure the site is crawlable
+
+ TECHNICAL SEO
+ * Website crawlability
+ * Website indexability
+ * Mobile optimization
+ * Site speed
+ * Secure website (HTTPS) --> [use https instead of http for a secure connection , install an SSL certificate to protect user data and boost SEO]
+ * Structure data markup
+ * URL optimization
+ * Canonicalization
+ * Fix broken links 
+ * Core web vitals
+ * Pagination
+ * Breadcumbs
+ * Site architecture [rel=next and rel=prev]
+ * International SEO [use hreflang tags to target specific language and regions , Ensure proper country specific domain or subdomain setup
+ * 404 error pages
+
+Four types of SEO
+WHITE-HAT SEO
+* writing relevant useful content helps your audience
+* Keyword rich page title and meta data
+* Relevant inbound links
+* Fast page loading times
+* Organizing the content on your site in order to help people find what they are looking for faster
+* Promoting your content on Social media 
+* Follow Google webmaster Guidelines --> https://search.google.com/search-console/about
+
+BLACK-HAT SEO
+* Keyword stuffing or hiding
+* Plagiarism content
+* Purchased Backlinks
+* Meta keyword stuffing
+* Similar web pages only slightly different content cloaking
+* Private blog networks
+
+GREY-HAT SEO
+* Reused and slightly altered content
+* Link exchanges
+* Purchasing social media followers
+* Paying for review
+* Duplicate content
+* Using clickbait [main purpose is to attract attention and encourage visitors to click on a link to a particular web page]
+
+NEGATIVE SEO
+* Stealing website content
+* Hacking a website
+* Creating spammy backlinks pointing to the competitor website
+* Posting fake negative Reviews About the competitor
+* Removing a website backlinks by sending fake removal request to webmaster
+
+
+TYPES OF TARGETING KEYWORD
+
+PRODUCT KEYWORD
+These keyword are directly reference a company product or services
+COMPETITOR KEYWORD
+These keyword are target brand names of competing businesses, product or services
+BRANDED KEYWORD
+These keywords are directly reference brand name along with a product
+GEO TARGET KEYWORD
+These keyword are target a specific neighborhood,city,state, or even country.
+
+
+TYPE OF KEYWORDS 
+
+* SHORT-TAIL-KEYWORD
+ Short tail keyword are search phrases with only one or words also known as generic keywords and they are very competitive to rank 
+ Ex: "Custom t-shirt"
+* MID-TAIL-KEYWORD
+ Medium-tail keywords are moderately competitive key terms consisting of two to three words and slightly more descriptive than generic head keywords
+ Ex: "Custom polo t-shirt"
+* LONG-TAIL-KEYWORD
+ Long-tail keywords are the longest search terms and targeted to a specific topic these terms have low search traffic and low-competitive keywords which makes easier to rank
+ Ex: "Custom polo t-shirt for mens"
+
+ MANY SEO BASED APP HAVE OWN ALGORITHM
+  GOOGLE ALGORITHM UPDATES
+   * FRED
+     Check low value and repeated content
+   * PANDA
+     Check Duplicate, plagiarized or thin content & keyword stuffing
+   * PENGUIN
+     Spammy or irrelevant links with over-optimized anchor text
+   * HUMMINGBIRD
+     Search intent keyword stuffing & low-quality content
+   * PIRATE
+     This update checks copyright and digital media piracy
+   * PIGEON
+     Check for the preference of the local results 
+   * MOBILE FRIENDLY
+     Boosts mobile-friendly websites
+   * CORE WEB VITALS 
+     Improved page experience [load speed and mobile-friendyness]
+
+
+THERE ARE 11 TYPES OF SEO
+ * On-page SEO --> [Focus on optimizing individual web pages for better ranking]
+ * Off-page SEO --> [Involves activites outside your website to boost rankings]
+ * Technical SEO --> [Focuses on the backend and infrastructure of the website]
+ * Local SEO --> [Target local audiences and improves visibility in location-based searches]
+ * E-commerce SEO --> [Focused on optimizing online stores]
+ * Content SEO --> [Invloves creating high quality relavent and optimized content]
+ * Mobile SEO --> [Ensures that a website performs well on mobile devices]
+ * Voice search SEO --> [Optimizes for voice-based search queries]
+ * Video SEO --> [Focuses on optimizing video content for visibility]
+ * Enterprise SEO --> [Designed for large-scale website or enterprise with thousands of pages]
+ * Negative SEO --> [Not recommended practice but involves sabotaging competitor ranking]
